@@ -12,9 +12,9 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 - Nome: Gisele Rodrigues dos Santos
 - Matricula: 903350
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Proposta de projeto escolhida: A proposta escolhida foi Lugares e Experiências.
 
+- Breve descrição sobre seu projeto: Uma espécie de jornal online da cidade Nova Atenas para divulgar eventos, denuncias e artigos invetigativos. A cidade é fictíca e eu tirei da série de livros 'Hades & Perséfone' da autora Scarlett St.Clair. 
 
 ## Print do(s) wireframe(s) criado
 
