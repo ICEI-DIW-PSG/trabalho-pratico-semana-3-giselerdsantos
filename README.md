@@ -18,10 +18,10 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Print do(s) wireframe(s) criado
 
-[Imagem Wireframe](images/templapagina1.png)
-[Imagem Wireframa](images/templapagina2.png)
+[Imagem Wireframe](templapagina1.png)
+[Imagem Wireframa](templapagina2.png)
 
 ## Print da home-page criada
 
-[Imagem Home-Page](images/paginasite1.png)
-[Imagem Home-Page](images/paginasite2.png)
+[Imagem Home-Page](paginasite1.png)
+[Imagem Home-Page](paginasite2.png)
