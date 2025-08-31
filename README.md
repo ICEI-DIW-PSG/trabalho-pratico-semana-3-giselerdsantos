@@ -14,7 +14,7 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 - Matricula: 903350
 - Proposta de projeto escolhida: A proposta escolhida foi Lugares e Experiências.
 
-- Breve descrição sobre seu projeto: Uma espécie de jornal online da cidade Nova Atenas para divulgar eventos, denuncias e artigos invetigativos. A cidade é fictíca e eu tirei da série de livros 'Hades & Perséfone' da autora Scarlett St.Clair. 
+- Breve descrição sobre seu projeto: Uma espécie de jornal online da cidade Nova Atenas para divulgar eventos, denuncias e artigos invetigativos. A cidade é fictíca e eu retirei da série de livros 'Hades & Perséfone' da autora Scarlett St.Clair. Se chama The Advocate que é o mesmo nome do site da personagem Perséfone nos livros.
 
 ## Print do(s) wireframe(s) criado
 
