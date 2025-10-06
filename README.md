@@ -12,14 +12,14 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 - Nome: Gisele Rodrigues dos Santos
 - Matricula: 903350
-- Proposta de projeto escolhida: A proposta escolhida foi Lugares e Experiências.
+- Proposta de projeto escolhida: Proposta 3 – Organizações e Equipes, pois o The Advocate é um jornal fictício, ideia que retirei de um livro, que funciona como uma organização.
 
 - Breve descrição sobre seu projeto: Uma espécie de jornal online da cidade Nova Atenas para divulgar eventos, denuncias e artigos invetigativos. A cidade é fictíca e eu retirei da série de livros 'Hades & Perséfone' da autora Scarlett St.Clair. Se chama The Advocate que é o mesmo nome do site da personagem Perséfone nos livros.
 
 ## Print do(s) wireframe(s) criado
 
 [Imagem Wireframe](public/images/templapagina1.png)
-[Imagem Wireframa](publicimages/templapagina2.png)
+[Imagem Wireframa](public/images/templapagina2.png)
 
 ## Print da home-page criada
 
